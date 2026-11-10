@@ -1,0 +1,6 @@
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; background: #08040c; }
+body { margin: 0; background: #08040c; }
+iframe { display: block; border: 0; }
+::selection { background: #ed45f5; color: #08040c; }
+a { -webkit-tap-highlight-color: transparent; }
